@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav {
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.content {
+    background-color: #32393F;
+    color: white;
+    display: flex;
+}
+.left {
+    flex: 50%;
+}

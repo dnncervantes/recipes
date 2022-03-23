@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    justify-content: center;
+    justify-items: center;
+}
+.nav {
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.show_recipe {
+    border: 2px solid black;
+    justify-content: center;
+    width: 500px;
+    padding: 10px;
+}
